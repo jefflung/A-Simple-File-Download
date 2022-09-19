@@ -1,4 +1,4 @@
-July 2022 Computer Sciences: Programming course by Teesside University
+July 2022 Computer Sciences: Programming (CIS1048-N) by Teesside University
 
 Worksheet 8 Networking Programming
 
